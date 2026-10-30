@@ -1,0 +1,5 @@
+.herenow/
+.DS_Store
+# Real question bank kept private so students cannot read the answer key (see samples/)
+site/questions.json
+site/questions.js
